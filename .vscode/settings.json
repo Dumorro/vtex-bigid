@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/bf729c23-ca16-4d11-bcd9-b0d62d0a32c7/resourceGroups/vtex-bigid/providers/Microsoft.Web/sites/api-vtex-bigid",
+    "appService.deploySubpath": "."
+}
