@@ -1,7 +1,7 @@
 const request = require('request'); 
 const express = require('express')
 const app = express()
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 8080;
 
 const headers = {
   'x-vtex-api-appKey': 'vtexappkey-carrefourbr-SZQQTR',
